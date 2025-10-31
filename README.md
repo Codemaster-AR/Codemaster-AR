@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![Button Text](Image-URL)](Link-URL)
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 
