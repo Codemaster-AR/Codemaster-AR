@@ -16,13 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-[![Button Text](Image-URL)](Link-URL)
-To create a truly dynamic README that tracks stars, views, and repository lists in real-time, you need to use **GitHub Readme Stats** and **GitHub Readme Profile Views**. These services update automatically without you needing to manually edit the file.
-
-Here is a complex, modern Markdown structure using your specific repository data.
-
------
-
 # 🛸 codemaster-ar | System Overview
 
 <p align="left">
