@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 # 🛸 codemaster-ar | System Overview
 
+## Owner & creator of: [https://www.quantal-labs.com/](https://www.quantal-labs.com/)
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=codemaster-ar&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemaster-ar&layout=compact&theme=tokyonight&cache_seconds=1800" height="150" />
